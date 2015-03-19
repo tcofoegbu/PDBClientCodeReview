@@ -1,0 +1,176 @@
+{
+    "responseHeader": {
+        "status": 0,
+        "QTime": 0,
+        "params": {
+            "sort": "",
+            "fl": "molecule_type,pdb_id,genus,gene_name,title",
+            "q": "text:abc AND molecule_sequence:['' TO *]",
+            "wt": "json",
+            "rows": "100"
+        }
+    },
+    "response": {
+        "numFound": 931,
+        "start": 0,
+        "docs": [
+            {
+                "pdb_id": "3qf4",
+                "title": "Crystal structure of a heterodimeric ABC transporter in its inward-facing conformation",
+                "genus": [
+                    "Thermotoga"
+                ],
+                "molecule_type": "Protein",
+                "gene_name": [
+                    "THEMA_03290",
+                    "Tmari_0285",
+                    "TM_0287"
+                ]
+            },
+            {
+                "pdb_id": "4wbs",
+                "title": "Crystal structure of an ABC transporter related protein from Burkholderia phymatum",
+                "genus": [
+                    "Burkholderia"
+                ],
+                "molecule_type": "Protein",
+                "gene_name": [
+                    "Bphy_0327"
+                ]
+            },
+            {
+                "pdb_id": "1hn0",
+                "title": "CRYSTAL STRUCTURE OF CHONDROITIN ABC LYASE I FROM PROTEUS VULGARIS AT 1.9 ANGSTROMS RESOLUTION",
+                "genus": [
+                    "Proteus"
+                ],
+                "molecule_type": "Protein"
+            },
+            {
+                "pdb_id": "4a82",
+                "title": "Fitted model of staphylococcus aureus sav1866 model ABC transporter in the human cystic fibrosis transmembrane conductance regulator volume map EMD-1966.",
+                "genus": [
+                    "Homo"
+                ],
+                "molecule_type": "Protein",
+                "gene_name": [
+                    "SAV1866"
+                ]
+            },
+            {
+                "pdb_id": "3nh6",
+                "title": "Nucleotide Binding Domain of human ABCB6 (apo structure)",
+                "genus": [
+                    "Homo"
+                ],
+                "molecule_type": "Protein",
+                "gene_name": [
+                    "ABCB6",
+                    "UMAT",
+                    "MTABC3",
+                    "PRP"
+                ]
+            },
+            {
+                "pdb_id": "2nq2",
+                "title": "An inward-facing conformation of a putative metal-chelate type ABC transporter.",
+                "genus": [
+                    "Haemophilus"
+                ],
+                "molecule_type": "Protein",
+                "gene_name": [
+                    "HI_1471"
+                ]
+            },
+            {
+                "pdb_id": "3s4u",
+                "title": "Crystal structure of open, unliganded E. coli PhnD H157A",
+                "genus": [
+                    "Escherichia"
+                ],
+                "molecule_type": "Protein",
+                "gene_name": [
+                    "phnD",
+                    "UTI89_C4699"
+                ]
+            },
+            {
+                "pdb_id": "4q4a",
+                "title": "Improved model of AMP-PNP bound TM287/288",
+                "genus": [
+                    "Thermotoga"
+                ],
+                "molecule_type": "Protein",
+                "gene_name": [
+                    "TM_0288"
+                ]
+            },
+            {
+                "pdb_id": "1oxs",
+                "title": "Crystal structure of GlcV, the ABC-ATPase of the glucose ABC transporter from Sulfolobus solfataricus",
+                "genus": [
+                    "Sulfolobus"
+                ],
+                "molecule_type": "Protein",
+                "gene_name": [
+                    "SSO2850"
+                ]
+            },
+            {
+                "pdb_id": "4q4j",
+                "title": "Structure of crosslinked TM287/288_S498C_S520C mutant",
+                "genus": [
+                    "Thermotoga"
+                ],
+                "molecule_type": "Protein",
+                "gene_name": [
+                    "TM_0288"
+                ]
+            },
+            {
+                "pdb_id": "1oxt",
+                "title": "Crystal structure of GlcV, the ABC-ATPase of the glucose ABC transporter from Sulfolobus solfataricus",
+                "genus": [
+                    "Sulfolobus"
+                ],
+                "molecule_type": "Protein",
+                "gene_name": [
+                    "SSO2850"
+                ]
+            },
+            {
+                "pdb_id": "4q4h",
+                "title": "TM287/288 in its apo state",
+                "genus": [
+                    "Thermotoga"
+                ],
+                "molecule_type": "Protein",
+                "gene_name": [
+                    "TM_0288"
+                ]
+            },
+            {
+                "pdb_id": "3qf4",
+                "title": "Crystal structure of a heterodimeric ABC transporter in its inward-facing conformation",
+                "genus": [
+                    "Thermotoga"
+                ],
+                "molecule_type": "Protein",
+                "gene_name": [
+                    "TM_0288"
+                ]
+            },
+            {
+                "pdb_id": "2fgk",
+                "title": "Crystal structure of the ABC-cassette E631Q mutant of HlyB with bound ATP",
+                "genus": [
+                    "Escherichia"
+                ],
+                "molecule_type": "Protein",
+                "gene_name": [
+                    "hlyB"
+                ]
+            }
+        ]
+    }
+}

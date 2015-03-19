@@ -1,0 +1,17 @@
+{
+    "responseHeader": {
+        "status": 400,
+        "QTime": 0,
+        "params": {
+            "sort": "",
+            "fl": "pdb_id",
+            "q": "text:abc OR text:go:abc AND molecule_sequence:['' TO *]",
+            "wt": "json",
+            "rows": "100"
+        }
+    },
+    "error": {
+        "msg": "org.apache.solr.search.SyntaxError: Cannot parse 'text:abc OR text:go:abc AND molecule_sequence:['' TO *]': Encountered \" \":\" \": \"\" at line 1, column 19.",
+        "code": 400
+    }
+}
